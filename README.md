@@ -1,5 +1,7 @@
 # Sudoku Solver and Minimum Makespan Problem Solver
 
+![sudokupic!](https://github.com/Avi-Gulati/sudoku-solver/assets/78887061/d8b7849f-6fd0-4bd0-9a86-f7b00d37e567)
+
 This project is a part of my portfolio for Harvard's CS 182: Artificial Intelligence. It contains Python code implementations for solving two distinct types of optimization problems using integer programming and backtracking search techniques: Sudoku puzzles and the minimum makespan problem.
 
 ## Sudoku Solver
